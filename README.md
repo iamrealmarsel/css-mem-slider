@@ -8,11 +8,11 @@
 
 ## UX/UI требования
 
-Пример десктопной версии:
-![desktop](img/posts/css-mem-slider/desktop.gif)
+Пример десктопной версии:  
+![desktop](https://user-images.githubusercontent.com/20097612/194789473-f11e3dc2-b871-46ca-97e6-c1fe80f2a9f5.gif)
 
-Пример мобильной версии:
-![mobile](img/posts/css-mem-slider/mobile.gif)
+Пример мобильной версии:  
+![mobile](https://user-images.githubusercontent.com/20097612/194789475-be509512-e615-4c06-b644-fa2d38ab962e.gif)
 
 - Соблюсти расположение блоков (картинки, контролы, подписи) как в примерах выше
 - Слайдер позиционируется с равными отступами слева и справа
